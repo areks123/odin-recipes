@@ -1,0 +1,58 @@
+* {
+    background-color: rgb(255, 240, 106);
+}
+
+.white-background {
+    background-color: white;
+    padding: 5px;
+}
+
+li, ul, ol {
+    background-color: white;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1 {
+    font-family: Verdana, sans-serif;
+    color: lightcoral;
+}
+
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: lightcoral;
+    font-weight: lighter;
+}
+
+h3 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    font-weight: lighter;
+}
+
+p {
+    background-color: white;
+    font-family: 'Courier New', Courier, monospace, sans-serif;
+    padding-left: 2%;
+}
+
+a {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: white;
+}
+
+a:link {
+    color: black;
+}
+
+a:visited {
+    color: lightcoral;
+}
+
+a:hover {
+    color: lightcoral;
+}
+
+img {
+    height: 500px;
+    width: auto;
+}
